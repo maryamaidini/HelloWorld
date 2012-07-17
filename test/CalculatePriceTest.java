@@ -5,7 +5,6 @@
  * Time: 13:57
  * To change this template use File | Settings | File Templates.
  */
-
 import org.junit.* ;
 import org.junit.Test;
 
